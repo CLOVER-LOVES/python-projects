@@ -1,0 +1,39 @@
+{
+    "wake_word": {
+        "enabled": true,
+        "keywords": ["jarvis"],
+        "sensitivity": 0.5,
+        "access_key": "6Hx1tsuKo2HjSIUZ3Tlhrb3chieXa27aH+PHIY7ZBOxgMIkGpXvbLg=="
+    },
+    "gpt": {
+        "enabled": false,
+        "api_key": "",
+        "model": "gpt-3.5-turbo",
+        "use_for_unknown_commands": true
+    },
+    "smart_home": {
+        "enabled": false,
+        "config_file": "smart_home_config.json"
+    },
+    "gui": {
+        "enabled": true,
+        "theme": "Dark"
+    },
+    "voice_enhancements": {
+        "enabled": true,
+        "wake_word": {
+            "enabled": true,
+            "keywords": ["jarvis"],
+            "sensitivity": 0.5,
+            "access_key": "6Hx1tsuKo2HjSIUZ3Tlhrb3chieXa27aH+PHIY7ZBOxgMIkGpXvbLg=="
+        },
+        "tts": {
+            "engine": "pyttsx3",
+            "voice_id": "",
+            "api_key": "",
+            "rate": 150,
+            "volume": 1.0,
+            "pitch": 1.0
+        }
+    }
+}

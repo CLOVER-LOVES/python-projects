@@ -1,0 +1,14 @@
+{
+    "email": {
+        "sender": "your-email@gmail.com",
+        "password": "your-app-password",
+        "recipients": {}
+    },
+    "paths": {
+        "music_dir": "D:\\Music",
+        "code_editor": "C:\\Users\\YourUsername\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    },
+    "weather_api_key": "YOUR_OPENWEATHERMAP_API_KEY",
+    "voice": 0,
+    "wake_word": "assistant"
+}

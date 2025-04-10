@@ -1,0 +1,3 @@
+@echo off
+echo Starting Hey Clover Voice Assistant...
+python background_assistant.py --start

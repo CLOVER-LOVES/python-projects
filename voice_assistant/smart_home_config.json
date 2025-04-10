@@ -1,0 +1,26 @@
+{
+  "platforms": {
+    "hue": {
+      "enabled": false,
+      "bridge_ip": "",
+      "username": ""
+    },
+    "tuya": {
+      "enabled": false,
+      "api_key": "",
+      "api_secret": "",
+      "region": "us"
+    },
+    "home_assistant": {
+      "enabled": false,
+      "url": "http://homeassistant.local:8123",
+      "token": ""
+    }
+  },
+  "device_aliases": {
+    "living room light": "hue:1",
+    "kitchen light": "hue:2",
+    "bedroom light": "tuya:device1",
+    "tv": "home_assistant:media_player.tv"
+  }
+}
