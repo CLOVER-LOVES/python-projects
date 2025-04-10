@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+title: Python Projects Collection
+description: A collection of Python projects including voice assistants and language learning bots
+show_downloads: true
+google_analytics:
+github:
+  repository_url: https://github.com/CLOVER-LOVES/python-projects
